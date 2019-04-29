@@ -24,6 +24,3 @@ The checksum will be 256-77=179 (179 is $B3 in hexadecimal).
 
 f4 56 08 AE
 
-
-
-i to raczej dziala
