@@ -1,0 +1,25 @@
+Drill report for C:\Users\levy\Google Drive\ALDL\kicad\aldl.kicad_pcb
+Created on 2018-11-15 20:30:34
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'C:aldl.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,40mm  0,016"  (13 holes)
+    T2  1,00mm  0,039"  (6 holes)
+    T3  1,20mm  0,047"  (5 holes)
+    T4  1,52mm  0,060"  (3 holes)
+
+    Total plated holes count 27
+
+
+Drill file 'C:aldl-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
